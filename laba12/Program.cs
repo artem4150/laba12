@@ -102,7 +102,7 @@ namespace laba12
         {
             while (true)
             {
-                int pointsCaseMenu = 9;
+                int pointsCaseMenu = 4;
 
                 Console.WriteLine("\nМеню работы с обобщенной коллекцией:");
                 Console.WriteLine("1 задание");
